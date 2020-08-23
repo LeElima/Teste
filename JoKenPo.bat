@@ -25,8 +25,8 @@ echo.
 echo [1] PEDRA
 echo [2] PAPEL
 echo [3] TESOURA
-echo [4] DOLLYNHO
-echo [5] COROTINHO
+echo [4] DOLLY
+echo [5] COROTE
 set /p op=ESCOLHA UMA OPCAO:
 echo.
 if %op% equ 1 goto :PEDRA 
